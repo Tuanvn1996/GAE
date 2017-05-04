@@ -1,0 +1,11 @@
+group13\controller\MainController.class
+group13\storge\StorageException.class
+group13\model\Post.class
+group13\storge\StorageFileNotFoundException.class
+group13\Application.class
+group13\dao\PostRepository.class
+group13\storge\StorageProperties.class
+group13\storge\StorageService.class
+group13\storge\Upload.class
+group13\service\PostService.class
+group13\storge\FileSystemStorageService.class
